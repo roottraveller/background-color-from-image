@@ -1,4 +1,4 @@
-package com.myntra;
+package com.colortest;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
